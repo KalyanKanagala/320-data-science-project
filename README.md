@@ -1,1 +1,2 @@
-# KalyanKanagala
+# Code for kalyankanagala.github.io
+This repo contains the code for the final project for CMSC320 where Mitchell Skopic and I analyzed whether or not the number of publications from the researchers at a university affect its ranking in the computer science domain. We collected data about the number of publications from the csrankings.org website. This website gives you the number of publications by researchers at the top 20 CS schools in the US in recognised journals.
